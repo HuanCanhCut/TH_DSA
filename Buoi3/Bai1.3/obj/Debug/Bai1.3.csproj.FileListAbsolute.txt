@@ -1,0 +1,7 @@
+D:\Workspace\Csharp\TH_DSA\Buoi3\Bai1.3\bin\Debug\Bai1.3.exe.config
+D:\Workspace\Csharp\TH_DSA\Buoi3\Bai1.3\bin\Debug\Bai1.3.exe
+D:\Workspace\Csharp\TH_DSA\Buoi3\Bai1.3\bin\Debug\Bai1.3.pdb
+D:\Workspace\Csharp\TH_DSA\Buoi3\Bai1.3\obj\Debug\Bai1.3.csproj.AssemblyReference.cache
+D:\Workspace\Csharp\TH_DSA\Buoi3\Bai1.3\obj\Debug\Bai1.3.csproj.CoreCompileInputs.cache
+D:\Workspace\Csharp\TH_DSA\Buoi3\Bai1.3\obj\Debug\Bai1.3.exe
+D:\Workspace\Csharp\TH_DSA\Buoi3\Bai1.3\obj\Debug\Bai1.3.pdb

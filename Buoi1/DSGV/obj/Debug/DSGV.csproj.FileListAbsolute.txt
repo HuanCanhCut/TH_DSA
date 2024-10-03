@@ -1,0 +1,7 @@
+D:\Workspace\Csharp\TH_DSA\Buoi1\DSGV\bin\Debug\DSGV.exe.config
+D:\Workspace\Csharp\TH_DSA\Buoi1\DSGV\bin\Debug\DSGV.exe
+D:\Workspace\Csharp\TH_DSA\Buoi1\DSGV\bin\Debug\DSGV.pdb
+D:\Workspace\Csharp\TH_DSA\Buoi1\DSGV\obj\Debug\DSGV.csproj.AssemblyReference.cache
+D:\Workspace\Csharp\TH_DSA\Buoi1\DSGV\obj\Debug\DSGV.csproj.CoreCompileInputs.cache
+D:\Workspace\Csharp\TH_DSA\Buoi1\DSGV\obj\Debug\DSGV.exe
+D:\Workspace\Csharp\TH_DSA\Buoi1\DSGV\obj\Debug\DSGV.pdb

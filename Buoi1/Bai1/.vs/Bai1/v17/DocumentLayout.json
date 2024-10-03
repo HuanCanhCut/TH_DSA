@@ -3,23 +3,22 @@
   "WorkspaceRootPath": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BD39886-CED0-4AE1-8813-29FCFAA5DDA9}|..\\Bai6\\Bai6.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61FA5EA7-02AC-4ABF-85D4-264FAC3F86F1}|..\\Bai9\\Bai9.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB8AD0BB-E32D-42EC-88BB-5C7D76795C32}|..\\Bai4\\Bai4.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5616B161-429A-4746-8066-C510DCD96BCB}|..\\BTCG\\BTCG.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\btcg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F669C18-6726-4D6C-9385-EC720F9E992A}|..\\Bai5\\Bai5.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AA5D110-58A1-46EA-942E-DC91A85255BE}|..\\DSGV\\DSGV.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\dsgv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213C8BFC-A961-4773-BE95-79B2DF27E77B}|..\\Bai3\\Bai3.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17A27812-3139-491C-BA71-FB75D6303EB0}|..\\Bai7\\Bai7.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFF3FCD5-2A7A-4789-8493-33EA0FA25220}|..\\Bai2\\Bai2.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C31D252-39EE-440B-B8D2-DC3F2190B75A}|..\\Bai8\\Bai8.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2AEBC70-FEB7-4AA0-8059-4EF8AAD72BC0}|Bai1.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2AEBC70-FEB7-4AA0-8059-4EF8AAD72BC0}|Bai1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63B64655-0A3D-48B1-9AAF-1F07637BB0AD}|..\\Bai10\\Bai10.csproj|d:\\workspace\\csharp\\th_dsa\\buoi1\\bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,89 +28,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai10\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai10\\Program.cs",
+              "RelativeToolTip": "..\\Bai10\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:33:10.484Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai6\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Bai6\\Program.cs",
-              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai6\\Program.cs",
-              "RelativeToolTip": "..\\Bai6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai9\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai9\\Program.cs",
+              "RelativeToolTip": "..\\Bai9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T08:04:19.936Z",
+              "WhenOpened": "2024-09-25T12:32:04.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai5\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Bai5\\Program.cs",
-              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai5\\Program.cs",
-              "RelativeToolTip": "..\\Bai5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\DSGV\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DSGV\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\DSGV\\Program.cs",
+              "RelativeToolTip": "..\\DSGV\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwFsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T08:02:34.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T09:17:44.215Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai4\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Bai4\\Program.cs",
-              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai4\\Program.cs",
-              "RelativeToolTip": "..\\Bai4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\BTCG\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BTCG\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\BTCG\\Program.cs",
+              "RelativeToolTip": "..\\BTCG\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T07:59:41.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Bai3\\Program.cs",
-              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai3\\Program.cs",
-              "RelativeToolTip": "..\\Bai3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T07:48:18.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T09:16:24.511Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Bai2\\Program.cs",
-              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai2\\Program.cs",
-              "RelativeToolTip": "..\\Bai2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai8\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai8\\Program.cs",
+              "RelativeToolTip": "..\\Bai8\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T07:40:12.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T08:09:42.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai7\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Csharp\\TH_DSA\\Buoi1\\Bai7\\Program.cs",
+              "RelativeToolTip": "..\\Bai7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T06:41:42.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T08:08:36.28Z"
             }
           ]
         }
